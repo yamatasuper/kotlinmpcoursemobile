@@ -1,6 +1,6 @@
 package com.example.kotlinmp_courses_mobile
 
-class Greeting {
+class  Greeting {
     private val platform: Platform = getPlatform()
 
     fun greet(): String {
